@@ -35,7 +35,10 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String,
-    name: String
+    name: String,
+    mobileNumber: String,
+    homeNumber: String,
+    officeNumber: String
   }
 }
 </script>
